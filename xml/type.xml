@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE score-partwise PUBLIC '-//Recordare//DTD MusicXML 2.0 Partwise//EN' 'http://www.musicxml.org/dtds/2.0/partwise.dtd'>
+<score-partwise version="2.0">
+ <identification>
+  <encoding>
+   <encoding-date>2018-03-23</encoding-date>
+   <software>Guitar Pro 6</software>
+  </encoding>
+ </identification>
+ <part-list>
+  <score-part id="P0">
+   <part-name>Acoustic Piano</part-name>
+   <part-abbreviation>A-Piano</part-abbreviation>
+   <midi-instrument id="P0">
+    <midi-channel>1</midi-channel>
+    <midi-bank>1</midi-bank>
+    <midi-program>1</midi-program>
+    <volume>80</volume>
+    <pan>0</pan>
+   </midi-instrument>
+  </score-part>
+ </part-list>
+ <part id="P0">
+  <measure number="0">
+   <attributes>
+    <divisions>16</divisions>
+    <key>
+     <fifths>0</fifths>
+     <mode>major</mode>
+    </key>
+    <time>
+     <beats>8</beats>
+     <beat-type>4</beat-type>
+    </time>
+    <clef>
+     <sign>G</sign>
+     <line>2</line>
+    </clef>
+   </attributes>
+   <direction directive="yes" placement="above">
+    <direction-type>
+     <metronome default-y="40" parentheses="yes">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>120</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="120"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>C</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>whole</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <notations>
+     <technical/>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>C</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>32</duration>
+    <voice>1</voice>
+    <type>half</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <notations>
+     <technical/>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>C</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>16</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <notations>
+     <technical/>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>C</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>8</duration>
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <beam number="1">begin</beam>
+    <notations>
+     <technical/>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>C</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>4</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <beam number="1">continue</beam>
+    <beam number="2">begin</beam>
+    <notations>
+     <technical/>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>C</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>2</duration>
+    <voice>1</voice>
+    <type>32nd</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <beam number="1">continue</beam>
+    <beam number="2">continue</beam>
+    <beam number="3">begin</beam>
+    <notations>
+     <technical/>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>C</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>64th</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <beam number="1">continue</beam>
+    <beam number="2">continue</beam>
+    <beam number="3">continue</beam>
+    <beam number="4">begin</beam>
+    <notations>
+     <technical/>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>C</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>64th</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <beam number="1">end</beam>
+    <beam number="2">end</beam>
+    <beam number="3">end</beam>
+    <beam number="4">end</beam>
+    <notations>
+     <technical/>
+    </notations>
+   </note>
+  </measure>
+ </part>
+</score-partwise>
